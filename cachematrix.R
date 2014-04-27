@@ -2,6 +2,9 @@
 ## In the first function (makeCacheMatrix), a list is crated where the matrix is stored
 ##In the Second Function(makeSolve), the inverse is calculated, but, only after checking if the inverse was presen in the cache
 
+
+
+
 ## The first function, makeCacheMatrix creates a special "matrix", which is really a list containing a function to
 ## 1) set the value of the matrix
 ## 2) get the value of the matrix
