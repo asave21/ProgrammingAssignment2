@@ -1,6 +1,6 @@
 ## This is a script that writes 2 functions for caching matrix inverse
-## In the first function (makeCacheMatrix), a list is crated where the matrix is stored
-##In the Second Function(makeSolve), the inverse is calculated, but, only after checking if the inverse was presen in the cache
+## In the first function (makeCacheMatrix), a list is created where the matrix is stored
+##In the Second Function(makeSolve), the inverse is calculated, but, only after checking if the inverse was present in the cache
 
 
 
